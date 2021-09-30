@@ -1,13 +1,14 @@
 //document.write("\nexternal js\n");
 //document.getElementById('th').innerHTML = "This is paragraph";
 
-/*
+
 
 var a1 = 4;
 var a11 = 9
 var a2 = "This is string variable";
 document.write(a1+a11 ,"<br>", a2,"<br>");
 
+/*
 //write only on console
 console.log("This is console");
 
